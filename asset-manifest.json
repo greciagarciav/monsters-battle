@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-battle/static/css/main.90f6920e.css",
+    "main.js": "/monsters-battle/static/js/main.cfeb4845.js",
+    "static/js/787.031cf6a2.chunk.js": "/monsters-battle/static/js/787.031cf6a2.chunk.js",
+    "index.html": "/monsters-battle/index.html",
+    "main.90f6920e.css.map": "/monsters-battle/static/css/main.90f6920e.css.map",
+    "main.cfeb4845.js.map": "/monsters-battle/static/js/main.cfeb4845.js.map",
+    "787.031cf6a2.chunk.js.map": "/monsters-battle/static/js/787.031cf6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f6920e.css",
+    "static/js/main.cfeb4845.js"
+  ]
+}
